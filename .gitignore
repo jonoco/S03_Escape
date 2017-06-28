@@ -1,3 +1,14 @@
+# Unreal Derived files
+/Build
+/Binaries
+/Intermediate
+/Saved
+/DerivedDataCache
+Content/StarterContent/
+
+# VS files
+*.VC.db
+
 # Compiled Object files
 *.slo
 *.lo
